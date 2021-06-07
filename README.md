@@ -533,7 +533,7 @@ O projeto entregue deve ter os seguintes conteúdos:
   que considerem úteis. Estes ficheiros, bem como ficheiros binários da versão
   Unity, devem ser incluídos no repositório em modo Git LFS.
 
-**Atenção:** A submissão tem de ter menos de 25 Megabytes e ser efetuada mesmo
+**Atenção:** A submissão tem de ter menos de 20 Megabytes e ser efetuada mesmo
 através do Moodle. Não são aceites _links_ para Google Drive, etc. Desta forma
 tenham muito cuidado com o `.gitignore` e o `.gitattributes` no início do
 projeto, e tenham em atenção que a versão Unity e de consola podem precisar de
