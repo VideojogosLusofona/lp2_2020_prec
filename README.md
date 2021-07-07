@@ -341,7 +341,7 @@ um número inteiro que corresponde ao número (aleatório) de eventos.
 
 A linguagem C# apenas oferece a classe [Random], que produz números aleatórios
 a partir da [distribuição uniforme]. O Wikipédia sugere [alguns
-algoritmos](genPoisson) para obter valores a partir da distribuição de
+algoritmos][genPoisson] para obter valores a partir da distribuição de
 Poisson tendo como base a distribuição uniforme. No entanto, apenas o segundo,
 "**algorithm** _poisson random number (Junhao, based on Knuth)_",
 funciona bem com valores elevados de `λ`, necessários para este projeto.
